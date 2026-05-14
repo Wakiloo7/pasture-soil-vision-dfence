@@ -1,0 +1,5 @@
+timestamp,source_type,grazing_area_id,latitude,longitude,vegetation_cover_score,bare_soil_score,waterlogged_soil_score,degraded_area_score,overgrazed_area_score,suitable_grazing_area_score,condition_estimate,condition_confidence,model_mode
+2026-05-14T20:47:23.017755,manual_upload,area_001,41.1579,-8.6291,0.5073,0.0327,0.093,0.46,0.0229,0.4608,suitable_grazing_area,0.8573,pretrained_yolov8n_coco
+2026-05-14T20:52:02.891476+00:00,manual_upload,area_001,41.1579,-8.6291,0.5073,0.0327,0.093,0.46,0.0229,0.4608,suitable_grazing_area,0.8573,pretrained_yolov8n_coco
+2026-05-14T20:55:35.372422+00:00,manual_upload,area_001,41.1579,-8.6291,0.5073,0.0327,0.093,0.46,0.0229,0.4608,suitable_grazing_area,0.8573,pretrained_yolov8n_coco
+2026-05-14T20:57:02.167164+00:00,manual_upload,area_001,41.1579,-8.6291,0.5073,0.0327,0.093,0.46,0.0229,0.4608,suitable_grazing_area,0.8573,pretrained_yolov8n_coco

@@ -1,0 +1,53 @@
+{
+  "project_name": "pasture-soil-vision-dfence",
+  "task_type": "object_detection_or_segmentation",
+  "classes": [
+    {
+      "id": 0,
+      "name": "vegetation_cover",
+      "description": "Visible grass, pasture, or healthy vegetation cover."
+    },
+    {
+      "id": 1,
+      "name": "bare_soil",
+      "description": "Exposed soil with little or no vegetation."
+    },
+    {
+      "id": 2,
+      "name": "waterlogged_soil",
+      "description": "Wet, muddy, saturated, or water-covered soil."
+    },
+    {
+      "id": 3,
+      "name": "degraded_area",
+      "description": "Damaged or unhealthy pasture or soil region."
+    },
+    {
+      "id": 4,
+      "name": "overgrazed_area",
+      "description": "Area with very sparse vegetation caused by grazing pressure."
+    },
+    {
+      "id": 5,
+      "name": "suitable_grazing_area",
+      "description": "Area with healthy vegetation and acceptable grazing condition."
+    }
+  ],
+  "metadata_fields": [
+    "image_id",
+    "source_type",
+    "grazing_area_id",
+    "latitude",
+    "longitude",
+    "timestamp",
+    "annotator_id",
+    "review_status"
+  ],
+  "supported_sources": [
+    "drone",
+    "satellite",
+    "rover",
+    "animal_camera",
+    "manual_upload"
+  ]
+}
