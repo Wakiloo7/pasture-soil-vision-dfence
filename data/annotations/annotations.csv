@@ -1,0 +1,2 @@
+timestamp,image_name,source_type,grazing_area_id,latitude,longitude,annotation_type,class_label,x1,y1,x2,y2,review_status,notes
+2026-05-14T21:27:01.867085+00:00,sample_pasture_image.jpg,manual_upload,area_001,41.1579,-8.6291,object_detection_bbox,suitable_grazing_area,50,50,300,250,draft,

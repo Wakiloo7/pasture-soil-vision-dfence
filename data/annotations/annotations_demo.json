@@ -1,0 +1,22 @@
+{
+  "annotations": [
+    {
+      "timestamp": "2026-05-14T21:27:01.867085+00:00",
+      "image_name": "sample_pasture_image.jpg",
+      "source_type": "manual_upload",
+      "grazing_area_id": "area_001",
+      "latitude": "41.1579",
+      "longitude": "-8.6291",
+      "annotation_type": "object_detection_bbox",
+      "class_label": "suitable_grazing_area",
+      "bbox": {
+        "x1": 50,
+        "y1": 50,
+        "x2": 300,
+        "y2": 250
+      },
+      "review_status": "draft",
+      "notes": ""
+    }
+  ]
+}
